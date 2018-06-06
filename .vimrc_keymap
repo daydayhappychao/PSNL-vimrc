@@ -1,0 +1,10 @@
+imap jj <ESC>
+nmap <c-p> :bp<CR>
+
+nmap <c-n> :bn<CR>
+
+nmap <c-m> :b#<CR>
+
+nmap <c-k> :bdelete<CR>
+
+nmap ; :
